@@ -8,7 +8,7 @@ This folder contains my flowchart solutions for Chapter 3 exercises:
 ## Previews:
 
 ### Exercise 6:
-![Exercise 6](Module%204%20-%20Exercise%201%20Flowcharting%20-%20Fatimatou%20ibrahim.drawio.png))
+![Exercise 6](Module%204%20-%20Exercise%201%20Flowcharting%20-%20Fatimatou%20ibrahim.drawio.png)
 
 ### Exercise 7:
 ![Exercise 7](Module%204%20-%20Exercise%202%20Flowcharting%20-%20Fatimatou%20ibrahim.drawio.png)
